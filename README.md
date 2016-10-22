@@ -10,7 +10,7 @@ Included weather stations:
 - Rua Comandante Fontanes (IACORUA35)
 - Rua Cervantes (IACORUA9)
 
-You can download more locations using the download.sh script.
+You can download any location in the world using the download.sh script. Use the Weather Underground website (https://www.wunderground.com/) to find other weather station codes.
 
 Fields:
 - Max TemperatureC
